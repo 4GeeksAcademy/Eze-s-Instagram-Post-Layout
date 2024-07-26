@@ -1,0 +1,39 @@
+.post{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+.post-header{
+display: flex;
+padding: 5px;
+}
+.brand-icon{
+    padding-top: 10px;
+    margin-right: 5px;
+}
+.ellipsis-icon{
+    padding-top: 10px;
+    margin-left: auto;
+}
+.book-icon{
+    margin-left: auto;
+}
+.post-icons{
+    display: flex;
+    padding: 5px;
+    margin-top: 10px;
+}
+.fa-heart,.fa-comment,.fa-paper-plane{
+margin-right: 5px;
+}
+.post-body{
+    padding: 10px;
+}
